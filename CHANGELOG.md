@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.6](https://github.com/firemeeting/scap/compare/v0.0.5...v0.0.6) - 2024-05-26
+
+### Other
+- updates readme
+
 ## [0.0.5](https://github.com/helmerapp/scap/compare/v0.0.4...v0.0.5) - 2024-05-25
 
 ### Other
